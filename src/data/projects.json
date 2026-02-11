@@ -1,7 +1,12 @@
 [
   {
     "id": "nexenit",
-    "carouselImages": ["1.webp", "2.webp", "3.webp", "4.webp"],
+    "carouselImages": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp"
+    ],
     "projectRepo": "https://github.com/duddy57/NexteiIT",
     "projectSite": "https://nexenit.com.br",
     "projectTitle": "Nexen",
@@ -19,6 +24,57 @@
       {
         "name": "React",
         "icon": "react"
+      }
+    ]
+  },
+  {
+    "id": "cineteca",
+    "carouselImages": [
+      "1.webp",
+      "2.webp",
+      "3.webp"
+    ],
+    "projectRepo": "https://github.com/duddy57/cineteca",
+    "projectSite": "https://cineteca.vercel.app/",
+    "projectTitle": "Cineteca",
+    "projectSlogan": "Project to study the movie database API",
+    "projectDescription": "Cineteca is a platform create for interdicplinal activite solicited by the professor of the discipline of programming languages and design of the Fatec Maua, with a modern and responsive interface",
+    "projectTechnologies": [
+      {
+        "name": "Svelte",
+        "icon": "svelte"
+      },
+      {
+        "name": "TypeScript",
+        "icon": "typescript"
+      }
+    ]
+  },
+  {
+    "id": "cotrip",
+    "carouselImages": [
+      "1.webp",
+      "2.webp",
+      "3.webp",
+      "4.webp"
+    ],
+    "projectRepo": "https://github.com/duddy57/cotrip",
+    "projectSite": "https://co-trip.vercel.app",
+    "projectTitle": "Cotrip",
+    "projectSlogan": "Project to share travel experiences",
+    "projectDescription": "Cotrip is a platform create for interdicplinal activite solicited by the professor of the discipline of programming languages and design of the Fatec Maua, with a modern and responsive interface",
+    "projectTechnologies": [
+      {
+        "name": "Svelte",
+        "icon": "svelte"
+      },
+      {
+        "name": "TypeScript",
+        "icon": "typescript"
+      },
+      {
+        "name": "CSS",
+        "icon": "css"
       }
     ]
   }
