@@ -1,0 +1,75 @@
+[
+  {
+    "skillName": "Python",
+    "skillPicture": "python.svg"
+  },
+  {
+    "skillName": "JavaScript",
+    "skillPicture": "javascript.svg"
+  },
+  {
+    "skillName": "TypeScript",
+    "skillPicture": "typescript.svg"
+  },
+  {
+    "skillName": "HTML",
+    "skillPicture": "html.svg"
+  },
+  {
+    "skillName": "CSS",
+    "skillPicture": "css.svg"
+  },
+
+  {
+    "skillName": "Git",
+    "skillPicture": "git.svg"
+  },
+  {
+    "skillName": "GitHub",
+    "skillPicture": "github.svg"
+  },
+  {
+    "skillName": "Node.js",
+    "skillPicture": "node.svg"
+  },
+  {
+    "skillName": "Next.js",
+    "skillPicture": "nextjs.svg"
+  },
+  {
+    "skillName": "Svelte",
+    "skillPicture": "svelte.svg"
+  },
+  {
+    "skillName": "AWS",
+    "skillPicture": "aws.svg"
+  },
+  {
+    "skillName": "Oracle",
+    "skillPicture": "oracle.svg"
+  },
+  {
+    "skillName": "Serverless",
+    "skillPicture": "serverless.svg"
+  },
+  {
+    "skillName": "Chrome DevTools",
+    "skillPicture": "chrome.svg"
+  },
+  {
+    "skillName": "Prometheus",
+    "skillPicture": "prometheus.svg"
+  },
+  {
+    "skillName": "Grafana",
+    "skillPicture": "grafana.svg"
+  },
+  {
+    "skillName": "Golang",
+    "skillPicture": "go.svg"
+  },
+  {
+    "skillName": "Docker",
+    "skillPicture": "docker.svg"
+  }
+]

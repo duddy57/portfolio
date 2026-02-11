@@ -1,0 +1,25 @@
+[
+  {
+    "id": "nexenit",
+    "carouselImages": ["1.webp", "2.webp", "3.webp", "4.webp"],
+    "projectRepo": "https://github.com/duddy57/NexteiIT",
+    "projectSite": "https://nexenit.com.br",
+    "projectTitle": "Nexen",
+    "projectSlogan": "Why tech is all",
+    "projectDescription": "Nexen is a platform that provides a wide range of technology services. From web development to cloud infrastructure, Nexen has got you covered. With a user-friendly interface and a team of dedicated professionals, Nexen ensures that your needs are met in the most efficient and effective way possible.",
+    "projectTechnologies": [
+      {
+        "name": "Tanstack",
+        "icon": "tanstack"
+      },
+      {
+        "name": "TypeScript",
+        "icon": "typescript"
+      },
+      {
+        "name": "React",
+        "icon": "react"
+      }
+    ]
+  }
+]

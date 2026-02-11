@@ -1,0 +1,42 @@
+[
+  {
+    "id": "Olivantel",
+    "jobPicture": "olivantel.webp",
+    "jobColor": "#10214c",
+    "jobTitle": "I.T technician",
+    "jobTime": "January 2024 - Present",
+    "jobCompany": "Olivantel Tecnology",
+    "jobCompanySite": "https://olivantel.com",
+    "jobActivities": [
+      "Configure and manage cloud-based virtual machines with a strong focus on cost optimization, stability, and high availability",
+      "Install, configure, and maintain cloud telephony systems.",
+      "Perform maintenance, optimization, and troubleshooting on physical machines, including notebooks, desktops, and servers.",
+      "Provide technical support and customer assistance, ensuring fast and reliable issue resolution.",
+      "Design and implement cloud solutions aligned with both technical and business needs",
+      "Developed a customer ticketing system to efficiently manage support requests and workflows.",
+      "Implemented a full-stack server monitoring solution, improving security, uptime, and operational predictability."
+    ],
+    "jobTechnologies": [
+      {
+        "name": "Golang",
+        "icon": "go"
+      },
+      {
+        "name": "TypeScript",
+        "icon": "typescript"
+      },
+      {
+        "name": "Node.js",
+        "icon": "node"
+      },
+      {
+        "name": "AWS",
+        "icon": "aws"
+      },
+      {
+        "name": "Serverless",
+        "icon": "serverless"
+      }
+    ]
+  }
+]

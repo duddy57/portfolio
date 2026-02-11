@@ -1,0 +1,77 @@
+---
+const { title } = Astro.props;
+import "../styles/globals.css";
+---
+
+<html lang="en" class="dark">
+    <head>
+        <meta charset="utf-8" />
+        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+        <link rel="sitemap" href="/sitemap-index.xml" />
+        <meta name="viewport" content="width=device-width" />
+        <meta name="generator" content={Astro.generator} />
+        <meta
+            name="description"
+            content="Alexsandro Silva is an experienced full-stack engineer and DevOps engineer with a focus on back-end development."
+        />
+        <meta name="author" content="Alexsandro Silva" />
+        <meta
+            name="keywords"
+            content="Alexsandro, Alexsandro Silva, alexsandro, Software Engineer, Full Stack Developer, Full Stack Engineer, Full Stack DevOps Engineer, Back End Developer, Co-Founder, Project Lead, DevOps Engineer, DevOps/ML Engineer, Machine Learning Expert, LLM Engineer, AI Agents, Generative AI, OpenAI, Gemini, Anthropic, PHP, CodeIgniter, Python, JavaScript, TypeScript, HTML, CSS, MySQL, Bootstrap, jQuery, Git, GitHub, Node.js, Next.js, WordPress, VS Code, AWS, GCP, Serverless, Figma, LangChain, Adobe Photoshop, Styled Components, Chrome DevTools, NPM, Netlify, Vercel, Replit, Astro, Canva, Streamlit, cPanel, Web Development, Back End Development, Front End Development, Cloud Computing, API Development, Fullstack Developer Philippines, DevOps Engineer Philippines, Portfolio"
+        />
+        <meta
+            property="og:title"
+            content="Alexsandro - Full Stack Engineer | DevOps"
+        />
+        <meta property="og:url" content="https://duddy57.dev/" />
+        <meta
+            property="og:description"
+            content="Alexsandro is an experienced full-stack engineer and DevOps engineer with a focus on back-end development."
+        />
+        <meta property="og:type" content="website" />
+        <meta
+            property="og:site_name"
+            content="Alexsandro - Full Stack Engineer | DevOps"
+        />
+        <meta property="og:locale" content="en_US" />
+        <link rel="canonical" href="https://duddy57.dev" />
+        <title>{title}</title>
+        <script type="application/ld+json">
+            {
+                "@context": "https://schema.org",
+                "@type": "Person",
+                "name": "Alexsandro",
+                "url": "https://duddy57.dev",
+                "sameAs": [
+                    "https://www.linkedin.com/in/duddy57dev",
+                    "https://github.com/duddy57"
+                ],
+                "jobTitle": "Full Stack AI Engineer",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Olivantel"
+                },
+                "alumniOf": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Fatec Maua"
+                }
+            }
+        </script>
+    </head>
+    <body class="bg-light-fondo-primary dark:bg-dark-fondo-primary">
+        <slot />
+
+        <script>
+            const darkThemeMq = window.matchMedia(
+                "(prefers-color-scheme: dark)",
+            );
+            if (darkThemeMq.matches) {
+                document.body.classList.add("dark");
+                document.documentElement.classList.add("dark");
+            } else {
+                document.body.classList.remove("dark");
+                document.documentElement.classList.remove("dark");
+            }
+        </script>
+    </body>
+</html>

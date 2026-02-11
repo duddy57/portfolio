@@ -1,0 +1,34 @@
+[
+  {
+    "id": "linux-foundation",
+    "certificatePictures": ["linux-certificate.png"],
+    "certificateTitle": "Introduction to Linux (LFS101)",
+    "certificateSite": "https://www.credly.com/badges/29a29d96-b75c-4e18-9b84-8f7cab1f0462/public_url",
+    "certificateTime": "December 2025",
+    "certificateAwarder": "The Linux Foundation",
+    "certificateDescription": "Foundational certification covering Linux operating system concepts, command-line usage, system administration basics, and security fundamentals.",
+    "certificateActivities": [
+      "Linux command-line operations and file system management",
+      "User and permission management",
+      "Process and package management",
+      "Basic networking concepts",
+      "Security fundamentals and system best practices"
+    ]
+  },
+  {
+    "id": "oci-cloud",
+    "certificatePictures": ["oci-certificate.png"],
+    "certificateTitle": "Oracle Cloud Infrastructure 2025 Certified Foundations Associate",
+    "certificateSite": "",
+    "certificateTime": "November 2025",
+    "certificateAwarder": "Oracle",
+    "certificateDescription": "Entry-level certification validating foundational knowledge of Oracle Cloud Infrastructure (OCI) services, cloud concepts, architecture principles, security, and pricing models.",
+    "certificateActivities": [
+      "Core OCI services (Compute, Storage, Networking)",
+      "Identity and Access Management (IAM)",
+      "Cloud architecture and high availability concepts",
+      "Security and compliance in OCI",
+      "Pricing, billing, and governance fundamentals"
+    ]
+  }
+]
