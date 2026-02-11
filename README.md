@@ -35,7 +35,7 @@ Portfólio profissional desenvolvido com **Astro**, **React** e **TailwindCSS** 
 
 ## 📫 Contato
 
-🌐 [dnachavez.dev](https://dnachavez.dev)
+🌐 [duddy57.dev](https://duddy57.dev)
 
 ---
 
