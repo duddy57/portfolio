@@ -9,6 +9,6 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://dnachavez.dev',
+  site: "https://duddy57.is-a.dev",
   integrations: [react(), tailwind(), sitemap()]
 });
