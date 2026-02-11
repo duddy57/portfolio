@@ -35,7 +35,7 @@ Portfólio profissional desenvolvido com **Astro**, **React** e **TailwindCSS** 
 
 ## 📫 Contato
 
-🌐 [duddy57.is-a.dev](https://duddy57.is-a.dev)
+🌐 [duddy57.dev](https://duddy57.dev)
 
 ---
 
